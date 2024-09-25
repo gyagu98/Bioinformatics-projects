@@ -9,10 +9,10 @@ Python script. These DNA sequences are embedded within the python script.
 To compare the GC content between different sequences, edit the python 
 script to include your DNA sequences of interest and then run: 
 
-on bash
 python3 dna_analysis_2.py
 
-#An example output is: 
+## An example output 
+
 Sequence 1: ATGCGCGTATCGGCTAGCTAGCTAGGCTAA
 GC Content: 53.33%
 ------------------------------
@@ -24,4 +24,5 @@ GC Content: 0.00%
 ------------------------------
 
 #Requirements: 
+
 Python 3.x
