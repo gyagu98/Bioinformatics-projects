@@ -13,16 +13,10 @@ python3 dna_analysis_2.py
 
 ## An example output 
 
-Sequence 1: ATGCGCGTATCGGCTAGCTAGCTAGGCTAA
-GC Content: 53.33%
-------------------------------
-Sequence 2: GCGTATCGCGGCTAGCATCGGCTATCGGGC
-GC Content: 66.67%
-------------------------------
-Sequence 3: ATATATATATATATATATATATATATATAT
-GC Content: 0.00%
-------------------------------
+Sequence 1: ATGCGCGTATCGGCTAGCTAGCTAGGCTAA GC Content: 53.33%
+Sequence 2: GCGTATCGCGGCTAGCATCGGCTATCGGGC GC Content: 66.67%
+Sequence 3: ATATATATATATATATATATATATATATAT GC Content: 0.00%
 
-#Requirements: 
+## Requirements 
 
 Python 3.x
